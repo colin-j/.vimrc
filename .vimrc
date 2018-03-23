@@ -1,4 +1,5 @@
-set number			" show line numbers
+set nocompatible	" seems to allow some plugins to work 
+set number		" show line numbers
 set tabstop=4		" show tabs as four spaces
 set cursorline		" highlight the line your cursor is on
 set wildmenu		" when you press tab it'll show a list of commands available to you
